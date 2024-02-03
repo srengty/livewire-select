@@ -1,6 +1,9 @@
 # Changelog
 
 All notable changes to `livewire-select` will be documented in this file
+## 3.0.0 - 2024-02-03
+
+- Upgraded dependencies
 
 ## 2.1.0 - 2021-07-31
 

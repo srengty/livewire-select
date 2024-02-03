@@ -1,17 +1,17 @@
 {
-    "name": "asantibanez/livewire-select",
+    "name": "srengty/livewire-select",
     "description": "Livewire dropdown select component",
     "keywords": [
-        "asantibanez",
+        "srengty",
         "livewire-select"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-select",
+    "homepage": "https://github.com/srengty/livewire-select",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Andrés Santibáñez",
-            "email": "santibanez.andres@gmail.com",
+            "email": "srengty@gmail.com",
             "role": "Developer"
         }
     ],
